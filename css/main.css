@@ -1,0 +1,27 @@
+form p label:hover {
+    cursor: pointer;
+}
+
+form p button {
+    color: antiquewhite;
+    border-radius: 20%;
+}
+
+form p .bg-dark.bg-gradient {
+    color: antiquewhite;
+    border-radius: 20%;
+}
+
+
+.bg-dark.bg-gradient {
+    transition: 0.5s;
+}
+
+.bg-dark.bg-gradient:hover {
+    color: burlywood;
+    background-color: black;
+}
+
+.user-container {
+    background-color: #F6D167;
+}
